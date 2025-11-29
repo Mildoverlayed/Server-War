@@ -1,0 +1,42 @@
+
+[fpv_drone]
+	#Enable noise interference effect based on FPV drone distance
+	enable_noise_effect = true
+	#Minimum distance (blocks) where noise starts appearing for FPV drone
+	#Range: 0.0 ~ 1000.0
+	noise_min_distance = 20.0
+	#Maximum distance (blocks) where noise reaches full intensity for FPV drone
+	#Range: 0.0 ~ 1000.0
+	noise_max_distance = 100.0
+	#Multiplier for noise intensity for FPV drone (0.0 - 2.0)
+	#Range: 0.0 ~ 2.0
+	noise_intensity_multiplier = 1.0
+	#Animation speed for noise effect for FPV drone (higher = faster)
+	#Range: 1.0 ~ 500.0
+	noise_animation_speed = 50.0
+	#Speed of noise pattern change for FPV drone (higher = faster pattern change, 0.1 - 10.0)
+	#Range: 0.1 ~ 10.0
+	noise_change_speed = 0.5
+	#Scale of noise pattern for FPV drone (higher = finer grain, 0.5 - 5.0)
+	#Range: 0.5 ~ 5.0
+	noise_scale = 1.0
+	#Tile size for noise texture for FPV drone (pixels)
+	#Range: 16 ~ 256
+	noise_tile_size = 64
+	#Maximum distance (blocks) for FPV drone signal loss
+	#Range: 50.0 ~ 500.0
+	max_distance = 150.0
+
+[mavic_drone]
+	#Maximum distance (blocks) for Mavic drone signal loss
+	#Range: 50.0 ~ 500.0
+	max_distance = 200.0
+	#Distance (blocks) where Mavic drone starts losing signal
+	#Range: 50.0 ~ 500.0
+	signal_loss_distance = 150.0
+
+[reb]
+	#Radius of REB (Radio Electronic Warfare) interference effect in blocks
+	#Range: 50.0 ~ 200.0
+	reb_radius = 100.0
+

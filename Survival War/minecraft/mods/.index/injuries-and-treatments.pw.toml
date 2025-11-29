@@ -1,0 +1,16 @@
+filename = 'injuries_and_treatments-1.0.7-forge-1.20.1.jar'
+name = 'Injuries and Treatments'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '99225b5d53c9031d8d64410a9acc1fb661fc069f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6218045
+project-id = 1012959

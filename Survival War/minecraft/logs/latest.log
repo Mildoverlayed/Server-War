@@ -1,0 +1,506 @@
+[28Nov2025 21:10:40.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, LGM30G, --version, 1.20.1, --gameDir, C:/Users/peter/AppData/Roaming/PrismLauncher/instances/Survival War/minecraft, --assetsDir, C:/Users/peter/AppData/Roaming/PrismLauncher/assets, --assetIndex, 5, --uuid, 1763f86191654ece8187098955f71753, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 854, --height, 480]
+[28Nov2025 21:10:40.960] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[28Nov2025 21:10:42.553] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[28Nov2025 21:10:42.681] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[28Nov2025 21:10:43.066] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[28Nov2025 21:10:43.114] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[28Nov2025 21:10:43.150] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[28Nov2025 21:10:43.176] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[28Nov2025 21:10:43.254] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/peter/AppData/Roaming/PrismLauncher/instances/Survival%20War/minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23230%23233!/ Service=ModLauncher Env=CLIENT
+[28Nov2025 21:10:43.261] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: AMD Radeon(TM) Graphics GL version 4.6.0 Core Profile Context 24.10.20.240607, ATI Technologies Inc.
+[28Nov2025 21:10:43.957] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\peter\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[28Nov2025 21:10:43.962] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\peter\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[28Nov2025 21:10:43.968] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\peter\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[28Nov2025 21:10:43.972] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\peter\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[28Nov2025 21:10:44.667] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 74 dependencies adding them to mods collection
+[28Nov2025 21:10:45.316] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 1 candidates to load
+[28Nov2025 21:10:47.134] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[28Nov2025 21:10:49.351] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Nov2025 21:10:49.676] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft, --assetsDir, C:\Users\peter\AppData\Roaming\PrismLauncher\assets, --uuid, 1763f86191654ece8187098955f71753, --username, LGM30G, --assetIndex, 5, --accessToken, ????????, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[28Nov2025 21:10:49.804] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 170 options available, 3 override(s) found
+[28Nov2025 21:10:49.812] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[28Nov2025 21:10:50.142] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 2050, version=DriverVersion=32.0.15.8180]
+[28Nov2025 21:10:50.142] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon(TM) Graphics, version=DriverVersion=32.0.11020.16]
+[28Nov2025 21:10:50.148] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[28Nov2025 21:10:50.148] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[28Nov2025 21:10:50.167] [main/WARN] [mixin/]: Reference map 'item_scrapper.refmap.json' for item_scrapper.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Nov2025 21:10:50.352] [main/WARN] [mixin/]: Reference map 'CuriosBackSlot.refmap.json' for curiosbackslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Nov2025 21:10:50.462] [main/WARN] [mixin/]: Reference map 'guccivuitton.refmap.json' for guccivuitton.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Nov2025 21:10:50.473] [main/WARN] [mixin/]: Reference map 'taczleaning.refmap.json' for taczleaning.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Nov2025 21:10:50.653] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Nov2025 21:10:52.305] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.305] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.306] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.313] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.314] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.315] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.317] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.317] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.318] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.319] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.320] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[28Nov2025 21:10:52.626] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[28Nov2025 21:10:52.674] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[28Nov2025 21:10:57.867] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 144 milliseconds
+[28Nov2025 21:11:00.271] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/peter/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23308!/assets/.mcassetsroot' uses unexpected schema
+[28Nov2025 21:11:00.271] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/peter/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23308!/data/.mcassetsroot' uses unexpected schema
+[28Nov2025 21:11:00.298] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Nov2025 21:11:00.928] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: LGM30G
+[28Nov2025 21:11:01.259] [Brewin' and Chewin' Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 1 Datafixer optimizations took 1 milliseconds
+[28Nov2025 21:11:01.341] [Render thread/INFO] [net.minecraft.client.Options/]: Added resource packs: [vanilla, tacz_resources, mod_resources, fabric, file/Aimz - Better Crosshair.zip, file/TACZ TAC SPRINT v1.3.zip, file/fog.zip, black_icons, continuity:default, continuity:glass_pane_culling_fix, file/(SBW) FPV drone.2.0.zip]
+[28Nov2025 21:11:01.364] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[28Nov2025 21:11:01.406] [Render thread/WARN] [Embeddium-NvidiaWorkarounds/]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[28Nov2025 21:11:01.414] [Render thread/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[28Nov2025 21:11:01.414] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[28Nov2025 21:11:01.461] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: ATI Technologies Inc.
+[28Nov2025 21:11:01.461] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[28Nov2025 21:11:01.461] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 Core Profile Context 24.10.20.240607
+[28Nov2025 21:11:01.711] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[28Nov2025 21:11:01.715] [Render thread/INFO] [Oculus/]: OpenGL 4.5 detected, enabling DSA.
+[28Nov2025 21:11:01.725] [Render thread/INFO] [Oculus/]: Shaders are disabled because enableShaders is set to false in iris.properties
+[28Nov2025 21:11:01.725] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[28Nov2025 21:11:02.140] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[28Nov2025 21:11:02.547] [modloading-worker-0/INFO] [Create: Trading Floor/]: Create: Trading Floor initializing! Platform: Forge
+[28Nov2025 21:11:02.547] [modloading-worker-0/INFO] [Create: Trading Floor/]: Registering all Create: Trading Floor entries
+[28Nov2025 21:11:02.553] [modloading-worker-0/INFO] [Create: Trading Floor/]: Registering Particle Emitters for: Create: Trading Floor
+[28Nov2025 21:11:02.576] [modloading-worker-0/INFO] [Create: Trading Floor/]: Finished Initialisation For Mod: trading_floor
+[28Nov2025 21:11:02.630] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[28Nov2025 21:11:02.633] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Nov2025 21:11:02.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_nbt
+[28Nov2025 21:11:02.639] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[28Nov2025 21:11:02.642] [modloading-worker-0/INFO] [cn.crtlprototypestudios.prma.PreciseManufacturing/]: Registering Mod Items
+[28Nov2025 21:11:02.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[28Nov2025 21:11:02.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_teams
+[28Nov2025 21:11:02.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_config
+[28Nov2025 21:11:02.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_message_history
+[28Nov2025 21:11:02.651] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[28Nov2025 21:11:02.655] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[28Nov2025 21:11:02.657] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[28Nov2025 21:11:02.675] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_settings_response
+[28Nov2025 21:11:02.678] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[28Nov2025 21:11:02.682] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:send_message_response
+[28Nov2025 21:11:02.685] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_presence
+[28Nov2025 21:11:02.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[28Nov2025 21:11:02.712] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[28Nov2025 21:11:02.762] [modloading-worker-0/INFO] [org.berezka.berezka_api.Berezka_api/]: [Berezka API] Berezka is loading...
+[28Nov2025 21:11:02.768] [modloading-worker-0/INFO] [org.berezka.berezka_api.Berezka_api/]: [Berezka API] loading on client...
+[28Nov2025 21:11:02.769] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] info: loading old plugins from folder: C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft\berezka_plugins\berezka_api directory exist: false
+[28Nov2025 21:11:02.770] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] createConfig info: language is en_us, modid:berezka_api
+[28Nov2025 21:11:02.770] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] Config param list for berezka_api is {DebugMode=[class java.lang.Boolean, Just debug mode, false, null, null], DefaultDoExtraChecksValue=[class java.lang.Boolean, Default value of doExtraChecks (if value isnt provided), true, null, null], UseFolderPluginSystem=[class java.lang.Boolean, Creates berezka_plugins folder and loads data from it., false, null, null], FolderPluginSystemList=[interface java.util.List, Defines loot tables to replace: modid:path:target.json (path from loot_tables folder to target, target - name of loot table, required file must be in berezka_plugins/modid/target.json, example: berezka_api:chests/:berezkahousesmall_0.json), [], null, null], SpawnLessLoot=[class java.lang.Boolean, Spawns less loot., false, null, null]}
+[28Nov2025 21:11:02.771] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] saved berezka_api:DebugMode, new list: {berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39}
+[28Nov2025 21:11:02.772] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] saved berezka_api:DefaultDoExtraChecksValue, new list: {berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39}
+[28Nov2025 21:11:02.772] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] saved berezka_api:UseFolderPluginSystem, new list: {berezka_api:UseFolderPluginSystem=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6e963ef8, berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39}
+[28Nov2025 21:11:02.772] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved berezka_api:FolderPluginSystemList
+[28Nov2025 21:11:02.773] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] saved berezka_api:SpawnLessLoot, new list: {berezka_api:FolderPluginSystemList=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@4ee325d0, berezka_api:SpawnLessLoot=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6afc9d47, berezka_api:UseFolderPluginSystem=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6e963ef8, berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39}
+[28Nov2025 21:11:02.773] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config for berezka_api successfully registered!
+[28Nov2025 21:11:02.774] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config spec: net.minecraftforge.common.ForgeConfigSpec@f3866a44
+[28Nov2025 21:11:02.774] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config file path: C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft/config/BerezkaAPI.toml
+[28Nov2025 21:11:02.776] [modloading-worker-0/INFO] [net.fabricmc.fabric.impl.client.indigo.Indigo/]: [Indigo] Registering Indigo renderer!
+[28Nov2025 21:11:02.803] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[28Nov2025 21:11:02.804] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[28Nov2025 21:11:02.909] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[28Nov2025 21:11:02.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
+[28Nov2025 21:11:02.917] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:send_all_chunks
+[28Nov2025 21:11:02.920] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:login_data
+[28Nov2025 21:11:02.925] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[28Nov2025 21:11:02.926] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:send_chunk
+[28Nov2025 21:11:02.930] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:send_general_data
+[28Nov2025 21:11:02.933] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[28Nov2025 21:11:02.952] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:player_death
+[28Nov2025 21:11:02.952] [modloading-worker-0/INFO] [org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops/]: [Radio Towers and Aidrops Berezka API] mod berezka_api is founded. access to API...
+[28Nov2025 21:11:02.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:send_visible_player_list
+[28Nov2025 21:11:02.957] [modloading-worker-0/INFO] [org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops/]: [Radio Towers and Aidrops Berezka API] API version is 2
+[28Nov2025 21:11:02.958] [modloading-worker-0/INFO] [org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops/]: [Radio Towers and Aidrops Berezka API] param list: {AirDropSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 170, 0, 4096], AirDropSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 110, 0, 4096], AirDropBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTowerSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 65, 0, 4096], RadioTowerSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 40, 0, 4096], RadioTowerBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTower2Spacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 110, 0, 4096], RadioTower2Separation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 70, 0, 4096], RadioTower2Biomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTowerOverrunSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 230, 0, 4096], RadioTowerOverrunSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 100, 0, 4096], RadioTowerOverrunBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null]}
+[28Nov2025 21:11:02.959] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] createConfig info: language is en_us, modid:radiotowers
+[28Nov2025 21:11:02.959] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] Config param list for radiotowers is {AirDropSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 170, 0, 4096], AirDropSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 110, 0, 4096], AirDropBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTowerSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 65, 0, 4096], RadioTowerSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 40, 0, 4096], RadioTowerBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTower2Spacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 110, 0, 4096], RadioTower2Separation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 70, 0, 4096], RadioTower2Biomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null], RadioTowerOverrunSpacing=[class java.lang.Integer, Average distance between two neighboring generation attempts., 230, 0, 4096], RadioTowerOverrunSeparation=[class java.lang.Integer, Minimum distance between two neighboring attempts., 100, 0, 4096], RadioTowerOverrunBiomes=[interface java.util.List, Defines the list of biomes where this structure can spawn., [plains, snowy_plains, sunflower_plains], null, null]}
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:AirDropSpacing
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:AirDropSeparation
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:AirDropBiomes
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerSpacing
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerSeparation
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerBiomes
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTower2Spacing
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTower2Separation
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTower2Biomes
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerOverrunSpacing
+[28Nov2025 21:11:02.960] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerOverrunSeparation
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: saved radiotowers:RadioTowerOverrunBiomes
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config for radiotowers successfully registered!
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config spec: net.minecraftforge.common.ForgeConfigSpec@2bd17312
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Config file path: C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft/config/RadioTowersAndAirDrops.toml
+[28Nov2025 21:11:02.961] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: register mod: radiotowers class: org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops
+[28Nov2025 21:11:02.962] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: methods: {listResource=public static boolean org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.isResourceListened(java.lang.String), handleResource=public static java.util.List org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.handleResource(java.lang.String), getJson=public static java.lang.String org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.getJson(java.lang.String)}
+[28Nov2025 21:11:02.962] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: mod data: [class org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops, {listResource=public static boolean org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.isResourceListened(java.lang.String), handleResource=public static java.util.List org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.handleResource(java.lang.String), getJson=public static java.lang.String org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops.getJson(java.lang.String)}, [worldgen/structure, worldgen/structure_set, worldgen/template_pool, loot_tables, lang]]
+[28Nov2025 21:11:02.962] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Register: radiotowers
+[28Nov2025 21:11:02.962] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: Registered mods: [berezka_api, radiotowers]
+[28Nov2025 21:11:02.964] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:sync_rx
+[28Nov2025 21:11:02.966] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:loaded_chunk_view
+[28Nov2025 21:11:02.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:send_player_position
+[28Nov2025 21:11:02.973] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[28Nov2025 21:11:02.976] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[28Nov2025 21:11:02.979] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:server_config_response
+[28Nov2025 21:11:02.982] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:chunk_change_response
+[28Nov2025 21:11:02.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:request_block_color
+[28Nov2025 21:11:02.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbchunks:add_waypoint
+[28Nov2025 21:11:03.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
+[28Nov2025 21:11:03.286] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
+[28Nov2025 21:11:03.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
+[28Nov2025 21:11:03.296] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id walkietalkie:updatewalkietalkie_s2c
+[28Nov2025 21:11:03.473] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 1a1a9a2819b4f89f78caec41b55ed8cb222fa24b
+[28Nov2025 21:11:03.474] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_quests
+[28Nov2025 21:11:03.479] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_team_data
+[28Nov2025 21:11:03.482] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_task_progress
+[28Nov2025 21:11:03.485] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[28Nov2025 21:11:03.489] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[28Nov2025 21:11:03.491] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:claim_reward_response
+[28Nov2025 21:11:03.495] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[28Nov2025 21:11:03.498] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[28Nov2025 21:11:03.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_other_team_data
+[28Nov2025 21:11:03.501] [modloading-worker-0/INFO] [Lexiconfig/]: Beginning lexicon shelving!
+[28Nov2025 21:11:03.505] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[28Nov2025 21:11:03.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[28Nov2025 21:11:03.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_completion_toast
+[28Nov2025 21:11:03.514] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_reward_toast
+[28Nov2025 21:11:03.518] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[28Nov2025 21:11:03.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[28Nov2025 21:11:03.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[28Nov2025 21:11:03.525] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.lexiconfig.LexiconfigConfig@6ab57b69!
+[28Nov2025 21:11:03.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[28Nov2025 21:11:03.531] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[28Nov2025 21:11:03.533] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[28Nov2025 21:11:03.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[28Nov2025 21:11:03.540] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_team_data
+[28Nov2025 21:11:03.543] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[28Nov2025 21:11:03.546] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started
+[28Nov2025 21:11:03.549] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed
+[28Nov2025 21:11:03.552] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started_reset
+[28Nov2025 21:11:03.556] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed_reset
+[28Nov2025 21:11:03.558] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_lock
+[28Nov2025 21:11:03.562] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:reset_reward
+[28Nov2025 21:11:03.565] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:team_data_changed
+[28Nov2025 21:11:03.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[28Nov2025 21:11:03.572] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[28Nov2025 21:11:03.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[28Nov2025 21:11:03.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[28Nov2025 21:11:03.583] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_object_response
+[28Nov2025 21:11:03.601] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[28Nov2025 21:11:03.609] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[28Nov2025 21:11:03.628] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[28Nov2025 21:11:03.631] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:delete_object_response
+[28Nov2025 21:11:03.635] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[28Nov2025 21:11:03.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:edit_object_response
+[28Nov2025 21:11:03.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[28Nov2025 21:11:03.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_response
+[28Nov2025 21:11:03.649] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[28Nov2025 21:11:03.651] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Setup] ? Loading ADM Anticheat... Initializing.
+[28Nov2025 21:11:03.653] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_quest_response
+[28Nov2025 21:11:03.655] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[28Nov2025 21:11:03.656] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [96m[ADM Anticheat] [0mBoot environment: CLIENT
+[28Nov2025 21:11:03.656] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [96m[ADM Anticheat] [0mMod integrity watcher started. Initial mods: 126
+[28Nov2025 21:11:03.656] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Setup] ? Environment detection initialized.
+[28Nov2025 21:11:03.662] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[28Nov2025 21:11:03.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[28Nov2025 21:11:03.666] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Config] Not running in a detected dedicated server environment; loading/creating config for local/integrated server.
+[28Nov2025 21:11:03.667] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Config] ? No config file found, creating default one
+[28Nov2025 21:11:03.669] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[28Nov2025 21:11:03.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[28Nov2025 21:11:03.675] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[28Nov2025 21:11:03.680] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[28Nov2025 21:11:03.682] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from 'C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft\config\yacl.json5'
+[28Nov2025 21:11:03.684] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
+[28Nov2025 21:11:03.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_structures_response
+[28Nov2025 21:11:03.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
+[28Nov2025 21:11:03.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editor_permission
+[28Nov2025 21:11:03.695] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:open_quest_book
+[28Nov2025 21:11:03.698] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:clear_display_cache
+[28Nov2025 21:11:03.703] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [WebhookConfig] ? Webhook config loaded successfully
+[28Nov2025 21:11:03.703] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Config] enableAfkKick=false, enableAutoClickerDetection=false, anticheatEnabled=true
+[28Nov2025 21:11:03.730] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [ResourcePacks] ? Server pack hash cache refreshed (entries=6)
+[28Nov2025 21:11:03.730] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Setup] ? Config loaded (logToConsole=true, anticheatEnabled=true) — ID file: config/admanticheat/idfile/admanticheat_id_list.json
+[28Nov2025 21:11:03.733] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Setup] ? ID file location: config/admanticheat/idfile/admanticheat_id_list.json (server will attempt to migrate legacy files if present)
+[28Nov2025 21:11:03.733] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Setup] ? Main config location: config/admanticheat/admanticheat_config.json
+[28Nov2025 21:11:03.788] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? Sinytra Connector detected on client boot! Connector footprint: [connectormod, fabric_api]
+[28Nov2025 21:11:03.815] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[28Nov2025 21:11:03.821] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.703 ms
+[28Nov2025 21:11:03.856] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Network] Registered 5 standard packet types
+[28Nov2025 21:11:03.860] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Network] Registered SecurePacket on admany:anticheat channel (id=5)
+[28Nov2025 21:11:03.865] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] Secure packet system prepared
+[28Nov2025 21:11:03.865] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] Registered 0 secure packet types
+[28Nov2025 21:11:03.866] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Network] Networking and packet integrity subsystems initialized.
+[28Nov2025 21:11:03.867] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [ServerHooks] ? Initialized server-side movement validation hooks
+[28Nov2025 21:11:03.869] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Config] ? Hot config reloading enabled - checking every 5 seconds
+[28Nov2025 21:11:03.870] [modloading-worker-0/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Config] Hot config reloading initialized
+[28Nov2025 21:11:04.013] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config fzzy_config:keybinds in 1358ms
+[28Nov2025 21:11:05.424] [Render thread/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[28Nov2025 21:11:05.424] [Render thread/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[28Nov2025 21:11:16.021] [Render thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in C:\Users\peter\AppData\Roaming\PrismLauncher\instances\Survival War\minecraft\tacz
+[28Nov2025 21:11:16.034] [Render thread/INFO] [tacz/GunPackFinder]: - gucci_vuitton_attachment, Main namespace: gucci_attachments
+[28Nov2025 21:11:16.035] [Render thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[28Nov2025 21:11:16.035] [Render thread/INFO] [tacz/GunPackFinder]: Found 2 possible gunpack(s) and added them to resource set.
+[28Nov2025 21:11:16.387] [Render thread/INFO] [org.berezka.berezka_api.Berezka_api/]: [Berezka API] loadPacks: [berezka_api, radiotowers]
+[28Nov2025 21:11:16.717] [Render thread/INFO] [Oculus/]: Hardware information:
+[28Nov2025 21:11:16.718] [Render thread/INFO] [Oculus/]: CPU: 12x AMD Ryzen 5 7535HS with Radeon Graphics 
+[28Nov2025 21:11:16.718] [Render thread/INFO] [Oculus/]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 4.6.0 Core Profile Context 24.10.20.240607)
+[28Nov2025 21:11:16.718] [Render thread/INFO] [Oculus/]: OS: Windows 11 (10.0)
+[28Nov2025 21:11:16.748] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
+[28Nov2025 21:11:16.757] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[28Nov2025 21:11:16.785] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
+[28Nov2025 21:11:17.701] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] Builtin resource pack created.
+[28Nov2025 21:11:17.704] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, tacz_resources, mod_resources, fabric, file/Aimz - Better Crosshair.zip, file/TACZ TAC SPRINT v1.3.zip, file/fog.zip, black_icons, continuity:default, continuity:glass_pane_culling_fix, file/(SBW) FPV drone.2.0.zip, berezka_api_data
+[28Nov2025 21:11:17.706] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] returning namespaces: [berezka_api, radiotowers]
+[28Nov2025 21:11:17.717] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] returning namespaces: [berezka_api, radiotowers]
+[28Nov2025 21:11:17.789] [Worker-Main-3/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: berezka_api (true), path: geo
+[28Nov2025 21:11:17.790] [Worker-Main-3/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: radiotowers (true), path: geo
+[28Nov2025 21:11:17.799] [Worker-Main-5/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] getResource called with type: CLIENT_RESOURCES and location: berezka_api:ftbchunks_block_colors.json
+[28Nov2025 21:11:17.799] [Worker-Main-5/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] returning null to: ftbchunks_block_colors.json of berezka_api
+[28Nov2025 21:11:17.799] [Worker-Main-5/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] getResource called with type: CLIENT_RESOURCES and location: radiotowers:ftbchunks_block_colors.json
+[28Nov2025 21:11:17.799] [Worker-Main-5/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers ftbchunks_block_colors.json
+[28Nov2025 21:11:17.799] [Worker-Main-5/INFO] [org.berezka.berezka_plugins_for_radio_towers_and_airdrops.Berezka_plugins_for_radio_towers_and_airdrops/]: [Radio Towers and Aidrops Berezka API] getJsonMethod: ftbchunks_block_colors.json from: berezka_plugins_for_radio_towers_and_airdrops
+[28Nov2025 21:11:17.799] [Worker-Main-5/WARN] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] No JSON found for radiotowers:ftbchunks_block_colors.json
+[28Nov2025 21:11:17.801] [Worker-Main-1/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: berezka_api (true), path: animations
+[28Nov2025 21:11:17.802] [Worker-Main-1/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: radiotowers (true), path: animations
+[28Nov2025 21:11:17.803] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: berezka_api (true), path: font
+[28Nov2025 21:11:17.804] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: radiotowers (true), path: font
+[28Nov2025 21:11:17.821] [Worker-Main-7/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: berezka_api (true), path: sounds
+[28Nov2025 21:11:17.822] [Worker-Main-7/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: [Berezka API] listResources called with type: CLIENT_RESOURCES, namespace: radiotowers (true), path: sounds
+[28Nov2025 21:11:17.963] [Worker-Main-11/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model mcsp:geo/bmd_4.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.051] [Worker-Main-4/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model drone_detector:geo/drone_detector.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.052] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] getValue: key: berezka_api:DefaultDoExtraChecksValue is exist?: true, list: {berezka_api:FolderPluginSystemList=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@4ee325d0, radiotowers:RadioTower2Biomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@5e369561, berezka_api:UseFolderPluginSystem=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6e963ef8, berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, radiotowers:AirDropSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1fa5abcd, radiotowers:AirDropSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@718805a5, radiotowers:RadioTower2Spacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@59974381, radiotowers:RadioTowerOverrunBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@33e0584f, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39, berezka_api:SpawnLessLoot=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6afc9d47, radiotowers:RadioTowerOverrunSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1a9663d, radiotowers:AirDropBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@303dfe80, radiotowers:RadioTowerSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@53d5284d, radiotowers:RadioTowerOverrunSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@62c63058, radiotowers:RadioTowerSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@28943ab3, radiotowers:RadioTower2Separation=net.minecraftforge.common.ForgeConfigSpec$IntValue@770208df, radiotowers:RadioTowerBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@defd132}
+[28Nov2025 21:11:18.052] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] getValue: key: berezka_api:UseFolderPluginSystem is exist?: true, list: {berezka_api:FolderPluginSystemList=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@4ee325d0, radiotowers:RadioTower2Biomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@5e369561, berezka_api:UseFolderPluginSystem=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6e963ef8, berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, radiotowers:AirDropSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1fa5abcd, radiotowers:AirDropSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@718805a5, radiotowers:RadioTower2Spacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@59974381, radiotowers:RadioTowerOverrunBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@33e0584f, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39, berezka_api:SpawnLessLoot=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6afc9d47, radiotowers:RadioTowerOverrunSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1a9663d, radiotowers:AirDropBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@303dfe80, radiotowers:RadioTowerSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@53d5284d, radiotowers:RadioTowerOverrunSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@62c63058, radiotowers:RadioTowerSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@28943ab3, radiotowers:RadioTower2Separation=net.minecraftforge.common.ForgeConfigSpec$IntValue@770208df, radiotowers:RadioTowerBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@defd132}
+[28Nov2025 21:11:18.052] [modloading-worker-0/INFO] [org.berezka.berezka_api.berezka_api_main/]: [Berezka API] getValue: key: berezka_api:DebugMode is exist?: true, list: {berezka_api:FolderPluginSystemList=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@4ee325d0, radiotowers:RadioTower2Biomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@5e369561, berezka_api:UseFolderPluginSystem=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6e963ef8, berezka_api:DefaultDoExtraChecksValue=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@482d82c1, radiotowers:AirDropSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1fa5abcd, radiotowers:AirDropSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@718805a5, radiotowers:RadioTower2Spacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@59974381, radiotowers:RadioTowerOverrunBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@33e0584f, berezka_api:DebugMode=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@3888cf39, berezka_api:SpawnLessLoot=net.minecraftforge.common.ForgeConfigSpec$BooleanValue@6afc9d47, radiotowers:RadioTowerOverrunSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@1a9663d, radiotowers:AirDropBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@303dfe80, radiotowers:RadioTowerSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@53d5284d, radiotowers:RadioTowerOverrunSpacing=net.minecraftforge.common.ForgeConfigSpec$IntValue@62c63058, radiotowers:RadioTowerSeparation=net.minecraftforge.common.ForgeConfigSpec$IntValue@28943ab3, radiotowers:RadioTower2Separation=net.minecraftforge.common.ForgeConfigSpec$IntValue@770208df, radiotowers:RadioTowerBiomes=net.minecraftforge.common.ForgeConfigSpec$ConfigValue@defd132}
+[28Nov2025 21:11:18.126] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File mcsp:sounds/m1a1_engine.ogg does not exist, cannot add it to event mcsp:m1a1_engine
+[28Nov2025 21:11:18.126] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File mcsp:sounds/m1a1_fire.ogg does not exist, cannot add it to event mcsp:m1a1_fire
+[28Nov2025 21:11:18.126] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/item.crossbow.loading_end.ogg does not exist, cannot add it to event mcsp:m1a1_reload
+[28Nov2025 21:11:18.126] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/block.gravel.step.ogg does not exist, cannot add it to event mcsp:wheel_step
+[28Nov2025 21:11:18.128] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event mcsp:yx_100_fire_1p
+[28Nov2025 21:11:18.128] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event mcsp:yx_100_fire_3p
+[28Nov2025 21:11:18.128] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event mcsp:yx_100_far
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event mcsp:yx_100_veryfar
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/block.iron_door.close.ogg does not exist, cannot add it to event mcsp:yx_100_reload
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.firework_rocket.blast.ogg does not exist, cannot add it to event mcsp:m_2_fire_1p
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.firework_rocket.blast.ogg does not exist, cannot add it to event mcsp:m_2_fire_3p
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.firework_rocket.blast.ogg does not exist, cannot add it to event mcsp:m_2_far
+[28Nov2025 21:11:18.129] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.firework_rocket.blast_far.ogg does not exist, cannot add it to event mcsp:m_2_veryfar
+[28Nov2025 21:11:18.133] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File mcsp:sounds/vdv_cannon_fire.ogg does not exist, cannot add it to event mcsp:vdv_cannon_fire
+[28Nov2025 21:11:18.133] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File mcsp:sounds/veryfar.ogg does not exist, cannot add it to event mcsp:m1128_veryfar
+[28Nov2025 21:11:18.145] [Worker-Main-4/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model vvp:geo/f35.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.147] [Worker-Main-5/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[28Nov2025 21:11:18.282] [Worker-Main-7/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers sounds.json
+[28Nov2025 21:11:18.307] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event vvp:yx_100_far
+[28Nov2025 21:11:18.307] [Worker-Main-7/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/entity.generic.explode.ogg does not exist, cannot add it to event vvp:yx_100_veryfar
+[28Nov2025 21:11:18.309] [Worker-Main-4/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model mcsp:geo/m3a3.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.327] [Worker-Main-6/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model mcsp:geo/m3a3_busk_ii.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.341] [Worker-Main-8/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model mcsp:geo/m3a3_busk_iii.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.442] [Worker-Main-9/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model vvp:geo/mi24.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.525] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Invalid path in pack: injuries_and_treatments:models/custom/test_(1).json, ignoring
+[28Nov2025 21:11:18.554] [Worker-Main-3/WARN] [software.bernie.geckolib.GeckoLib/]: Unsupported geometry json version: 1.21.0 for model mcsp:geo/sprut.geo.json. Supported versions: 1.12.0. Remove any rotated face UVs and re-export the model to fix
+[28Nov2025 21:11:18.581] [Render thread/ERROR] [net.minecraft.Util/]: Invalid path in pack: minecraft:textures/models/armor/gpnvgtan_layer_1 - Copia.png, ignoring
+[28Nov2025 21:11:18.789] [Worker-Main-4/INFO] [cn.crtlprototypestudios.prma.PreciseManufacturing/]: HELLO FROM PREINIT
+[28Nov2025 21:11:18.841] [Worker-Main-6/INFO] [tech.mcsp.mcsp.MCSP/]: HELLO FROM COMMON SETUP
+[28Nov2025 21:11:18.841] [Worker-Main-6/INFO] [tech.mcsp.mcsp.MCSP/]: DIRT BLOCK >> Block{minecraft:dirt}
+[28Nov2025 21:11:18.962] [Worker-Main-8/INFO] [FTB XMod Compat/]: Chose [Entity Tags] as the active game stages implementation
+[28Nov2025 21:11:18.970] [Worker-Main-8/INFO] [FTB XMod Compat/]: Chose [FALLBACK] as the active permissions implementation
+[28Nov2025 21:11:18.973] [Worker-Main-8/INFO] [FTB XMod Compat/]: [FTB Quests] recipe helper provider is [JEI]
+[28Nov2025 21:11:19.005] [Worker-Main-6/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[28Nov2025 21:11:19.026] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[28Nov2025 21:11:19.029] [Worker-Main-4/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
+[28Nov2025 21:11:19.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[28Nov2025 21:11:19.102] [Worker-Main-9/ERROR] [software.bernie.geckolib.GeckoLib/]: Unable to parse animation: melee_3
+[28Nov2025 21:11:19.131] [Worker-Main-4/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] Secure packet system prepared
+[28Nov2025 21:11:19.131] [Worker-Main-4/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] Registered 0 secure packet types
+[28Nov2025 21:11:19.131] [Worker-Main-4/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] ? Secure packet system initialized.
+[28Nov2025 21:11:19.134] [Worker-Main-4/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Environment] ? Environment handshake registered
+[28Nov2025 21:11:19.134] [Worker-Main-4/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Environment] ? Environment detection handshake registered.
+[28Nov2025 21:11:19.139] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Loading plugins
+[28Nov2025 21:11:19.152] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[28Nov2025 21:11:19.152] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Initializing plugins
+[28Nov2025 21:11:19.153] [Worker-Main-6/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[28Nov2025 21:11:19.154] [Worker-Main-6/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[28Nov2025 21:11:19.161] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[28Nov2025 21:11:19.163] [Worker-Main-8/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
+[28Nov2025 21:11:19.535] [Worker-Main-1/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers gunpack_info.json
+[28Nov2025 21:11:19.538] [Worker-Main-6/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers lang/en_us.json
+[28Nov2025 21:11:19.655] [Worker-Main-2/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers textures/block/ren.rgb_color.0001_e.png
+[28Nov2025 21:11:19.671] [Worker-Main-2/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers textures/block/airdrop_crate2_e.png
+[28Nov2025 21:11:19.674] [Worker-Main-2/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers textures/block/iron_bars2_e.png
+[28Nov2025 21:11:19.895] [Render thread/INFO] [Create: Trading Floor/]: Registering Advancements for: Create: Trading Floor
+[28Nov2025 21:11:19.905] [Worker-Main-2/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers textures/block/radio_pamel_e.png
+[28Nov2025 21:11:19.999] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tech.vvp.vvp.VVP/]: HELLO FROM COMMON SETUP
+[28Nov2025 21:11:20.000] [Render thread/INFO] [tech.vvp.vvp.VVP/]: DIRT BLOCK >> Block{minecraft:dirt}
+[28Nov2025 21:11:20.199] [Worker-Main-9/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture mffs:model/force_cube with size 112x70 limits mip level from 4 to 1
+[28Nov2025 21:11:20.200] [Worker-Main-9/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture lrarmor:item/armor/atf with size 277x293 limits mip level from 1 to 0
+[28Nov2025 21:11:20.200] [Render thread/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Security] Registering secure packets
+[28Nov2025 21:11:20.202] [Worker-Main-7/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
+[28Nov2025 21:11:20.251] [Worker-Main-6/INFO] [EMI/]: [EMI] Discovered Sodium
+[28Nov2025 21:11:20.305] [Worker-Main-10/INFO] [mekanism.common.Mekanism/]: Initialized HolidayManager.
+[28Nov2025 21:11:20.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[28Nov2025 21:11:20.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trading_floor] Starting version check at https://raw.githubusercontent.com/cakeGit/Create-Trading-Floor/refs/heads/1.20.1/forge_updates.json
+[28Nov2025 21:11:20.366] [Worker-Main-8/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2
+[28Nov2025 21:11:20.375] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Using Cloth Config GUI
+[28Nov2025 21:11:20.384] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Initializing Opus
+[28Nov2025 21:11:20.415] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Successfully initialized Opus
+[28Nov2025 21:11:20.415] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Initializing RNNoise
+[28Nov2025 21:11:20.436] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Successfully initialized RNNoise
+[28Nov2025 21:11:20.439] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Initializing Speex
+[28Nov2025 21:11:20.450] [Worker-Main-6/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ?? Client setup starting on: CLIENT
+[28Nov2025 21:11:20.450] [Worker-Main-6/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? ID file location: config/admanticheat/idfile/admanticheat_id_list.json
+[28Nov2025 21:11:20.450] [Worker-Main-6/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? Config loaded, anticheatEnabled: true
+[28Nov2025 21:11:20.452] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Successfully initialized Speex
+[28Nov2025 21:11:20.453] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Initializing LAME
+[28Nov2025 21:11:20.470] [Worker-Main-1/INFO] [voicechat/]: [voicechat] Successfully initialized LAME
+[28Nov2025 21:11:20.829] [Worker-Main-11/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'vvp:at4#inventory' referenced from: vvp:at4#inventory: java.io.FileNotFoundException: vvp:models/item/at4.json
+[28Nov2025 21:11:20.837] [Worker-Main-11/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'minecraft:ja' referenced from: injuries_and_treatments:firstaidkit#inventory: java.io.FileNotFoundException: minecraft:models/ja.json
+[28Nov2025 21:11:20.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trading_floor] Found status: AHEAD Current: 2.0.5 Target: null
+[28Nov2025 21:11:20.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[28Nov2025 21:11:21.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[28Nov2025 21:11:21.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[28Nov2025 21:11:21.482] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23309!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23309!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	... 6 more
+[28Nov2025 21:11:21.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Nov2025 21:11:21.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.0 Target: 47.4.10
+[28Nov2025 21:11:21.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[28Nov2025 21:11:21.816] [Render thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2
+[28Nov2025 21:11:22.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: UP_TO_DATE Current: 1.20.1-2.6.6 Target: null
+[28Nov2025 21:11:22.431] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered player tracker system: minimap_synced
+[28Nov2025 21:11:22.433] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: World Map found!
+[28Nov2025 21:11:22.433] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No Optifine!
+[28Nov2025 21:11:22.433] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
+[28Nov2025 21:11:22.434] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: Iris found!
+[28Nov2025 21:11:22.434] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
+[28Nov2025 21:11:22.440] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: 1427222909
+[28Nov2025 21:11:22.442] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
+[28Nov2025 21:11:22.446] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's WorldMap Mod: Xaero's minimap found!
+[28Nov2025 21:11:22.452] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: minimap_synced
+[28Nov2025 21:11:22.452] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
+[28Nov2025 21:11:22.453] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
+[28Nov2025 21:11:22.453] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
+[28Nov2025 21:11:22.766] [Worker-Main-11/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model item_scrapper:scrapper_block#inventory:
+    minecraft:textures/atlas/blocks.png:minecraft:texture
+[28Nov2025 21:11:22.766] [Worker-Main-11/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model vvp:icon_civilian#inventory:
+    minecraft:textures/atlas/blocks.png:vvp:item/icon_civilian
+[28Nov2025 21:11:32.165] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers sidebar_button_groups.json
+[28Nov2025 21:11:32.284] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers sidebar_buttons.json
+[28Nov2025 21:11:32.396] [Worker-Main-9/INFO] [cn.crtlprototypestudios.prma.PreciseManufacturing/]: Hello world from the MDK
+[28Nov2025 21:11:32.396] [Worker-Main-9/INFO] [cn.crtlprototypestudios.prma.PreciseManufacturing/]: Got IMC [Hello world]
+[28Nov2025 21:11:32.426] [Worker-Main-6/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.lexiconfig.LexiconfigConfig@6ab57b69!
+[28Nov2025 21:11:32.439] [Worker-Main-6/INFO] [Lexiconfig/]: Lexiconfig cataloging completed!
+[28Nov2025 21:11:32.515] [Worker-Main-7/INFO] [PonderIndex/]: Registering Ponder Scenes took 90.22 ms
+[28Nov2025 21:11:32.519] [Worker-Main-7/INFO] [PonderIndex/]: Registering Ponder Tags took 4.631 ms
+[28Nov2025 21:11:32.744] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Sinytra/Fabric mods saved in ID list: []
+[28Nov2025 21:11:32.744] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 123 mods for ID list.
+[28Nov2025 21:11:32.745] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Added ADM Anticheat entry to ID list: 1.9.2
+[28Nov2025 21:11:32.756] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Client resource packs detected: [(SBW) FPV drone.2.0.zip, Aimz - Better Crosshair.zip, Apocalypse gui 1.20.1 v19.zip, fog.zip, Tactical_PDA_Ftbquests_v1.3.zip, TACZ TAC SPRINT v1.3.zip]
+[28Nov2025 21:11:32.756] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 6 user resource packs for ID list.
+[28Nov2025 21:11:32.756] [Worker-Main-5/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? Found 124 mods and 6 resource packs for ID file
+[28Nov2025 21:11:32.757] [Worker-Main-5/WARN] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? Existing ID file appears malformed JSON; regenerating ID file (com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 1 path $).
+[28Nov2025 21:11:32.759] [ADM-IdManager-Async/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] ? Generated/updated ID file with current mod/resourcepack IDs
+[28Nov2025 21:11:32.776] [Render thread/INFO] [Configured/]: Successfully loaded config provider: com.mrcrayfish.configured.impl.forge.ForgeConfigProvider
+[28Nov2025 21:11:32.776] [Render thread/INFO] [Configured/]: Successfully loaded config provider: com.mrcrayfish.configured.impl.framework.FrameworkConfigProvider
+[28Nov2025 21:11:32.776] [Render thread/INFO] [Configured/]: Successfully loaded config provider: com.mrcrayfish.configured.impl.jei.JeiConfigProvider
+[28Nov2025 21:11:32.777] [Render thread/INFO] [Configured/]: Successfully loaded config provider: com.codinglitch.lexiconfig.compat.configured.LexiconfigProvider
+[28Nov2025 21:11:32.777] [Render thread/INFO] [Configured/]: Creating config GUI factories...
+[28Nov2025 21:11:32.784] [Render thread/INFO] [Configured/]: Registering config factory for mod takkit. Found 2 config(s)
+[28Nov2025 21:11:32.785] [Render thread/INFO] [Configured/]: Registering config factory for mod taczaddon. Found 1 config(s)
+[28Nov2025 21:11:32.785] [Render thread/INFO] [Configured/]: Registering config factory for mod mffs. Found 2 config(s)
+[28Nov2025 21:11:32.785] [Render thread/INFO] [Configured/]: Registering config factory for mod sophisticatedcore. Found 2 config(s)
+[28Nov2025 21:11:32.785] [Render thread/INFO] [Configured/]: Registering config factory for mod berezka_plugins_for_radio_towers_and_airdrops. Found 1 config(s)
+[28Nov2025 21:11:32.787] [Render thread/INFO] [Configured/]: Registering config factory for mod sophisticatedbackpacks. Found 2 config(s)
+[28Nov2025 21:11:32.787] [Render thread/INFO] [Configured/]: Registering config factory for mod drone_detector. Found 2 config(s)
+[28Nov2025 21:11:32.788] [Render thread/INFO] [Configured/]: Registering config factory for mod farmersdelight. Found 2 config(s)
+[28Nov2025 21:11:32.788] [Render thread/INFO] [Configured/]: Registering config factory for mod lrarmor. Found 1 config(s)
+[28Nov2025 21:11:32.788] [Render thread/INFO] [Configured/]: Registering config factory for mod curios. Found 3 config(s)
+[28Nov2025 21:11:32.790] [Render thread/INFO] [Configured/]: Registering config factory for mod jei. Found 5 config(s)
+[28Nov2025 21:11:32.791] [Render thread/INFO] [Configured/]: Registering config factory for mod mekanism. Found 8 config(s)
+[28Nov2025 21:11:32.792] [Render thread/INFO] [Configured/]: Registering config factory for mod berezka_api. Found 1 config(s)
+[28Nov2025 21:11:32.792] [Render thread/INFO] [Configured/]: Registering config factory for mod curiosbackslot. Found 1 config(s)
+[28Nov2025 21:11:32.792] [Render thread/INFO] [Configured/]: Registering config factory for mod vvp. Found 2 config(s)
+[28Nov2025 21:11:32.793] [Render thread/INFO] [Configured/]: Registering config factory for mod forge. Found 2 config(s)
+[28Nov2025 21:11:32.793] [Render thread/INFO] [Configured/]: Registering config factory for mod brewinandchewin. Found 2 config(s)
+[28Nov2025 21:11:32.793] [Render thread/INFO] [Configured/]: Registering config factory for mod flywheel. Found 1 config(s)
+[28Nov2025 21:11:32.793] [Render thread/INFO] [Lexiconfig/]: Providing configured configs for valid mod lexiconfig
+[28Nov2025 21:11:32.794] [Render thread/INFO] [Lexiconfig/]: Loaded lexiconfigured library
+[28Nov2025 21:11:32.795] [Render thread/INFO] [Configured/]: Registering config factory for mod lexiconfig. Found 1 config(s)
+[28Nov2025 21:11:32.795] [Render thread/INFO] [Configured/]: Registering config factory for mod chamber_clarity. Found 1 config(s)
+[28Nov2025 21:11:32.795] [Render thread/INFO] [Configured/]: Registering config factory for mod cosmeticarmorreworked. Found 2 config(s)
+[28Nov2025 21:11:34.807] [Render thread/INFO] [net.minecraft.client.Options/]: Added resource packs: [vanilla, tacz_resources, mod_resources, fabric, file/Aimz - Better Crosshair.zip, file/TACZ TAC SPRINT v1.3.zip, file/fog.zip, black_icons, continuity:default, continuity:glass_pane_culling_fix, file/(SBW) FPV drone.2.0.zip]
+[28Nov2025 21:11:34.884] [Render thread/INFO] [org.berezka.berezka_api.BuiltInResourcePack/]: getting json from radiotowers lang/en_us.json
+[28Nov2025 21:11:35.026] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[28Nov2025 21:11:35.026] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:yx_100_fire_1p
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:yx_100_fire_3p
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:yx_100_reload
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:smoke_fire
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:tank_engine
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:btr_2a72_p1
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:btr_2a72_p3
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:btr_2a72_far
+[28Nov2025 21:11:35.027] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: vvp:btr_2a72_veryfar
+[28Nov2025 21:11:36.104] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Speaker (Realtek(R) Audio)
+[28Nov2025 21:11:36.104] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[28Nov2025 21:11:36.185] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 8192x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[28Nov2025 21:11:36.343] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[28Nov2025 21:11:36.343] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[28Nov2025 21:11:36.345] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[28Nov2025 21:11:36.345] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[28Nov2025 21:11:36.352] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[28Nov2025 21:11:36.354] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[28Nov2025 21:11:36.354] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[28Nov2025 21:11:36.354] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[28Nov2025 21:11:36.557] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[28Nov2025 21:11:36.616] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[28Nov2025 21:11:36.619] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[28Nov2025 21:11:36.620] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[28Nov2025 21:11:36.632] [Render thread/INFO] [xaero.map.WorldMap/]: Successfully reloaded the world map shaders!
+[28Nov2025 21:11:38.210] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[28Nov2025 21:11:38.211] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
+[28Nov2025 21:11:38.290] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 77 shader sources in 51.827 ms
+[28Nov2025 21:11:38.343] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 56 train hat configurations.
+[28Nov2025 21:11:38.352] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Successfully reloaded the minimap shaders!
+[28Nov2025 21:11:38.423] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[28Nov2025 21:11:38.429] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
+[28Nov2025 21:11:41.216] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Sinytra/Fabric mods saved in ID list: []
+[28Nov2025 21:11:41.216] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 123 mods for ID list.
+[28Nov2025 21:11:41.217] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Added ADM Anticheat entry to ID list: 1.9.2
+[28Nov2025 21:11:41.227] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Client resource packs detected: [(SBW) FPV drone.2.0.zip, Aimz - Better Crosshair.zip, Apocalypse gui 1.20.1 v19.zip, fog.zip, Tactical_PDA_Ftbquests_v1.3.zip, TACZ TAC SPRINT v1.3.zip]
+[28Nov2025 21:11:41.227] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 6 user resource packs for ID list.
+[28Nov2025 21:11:41.253] [ADM-IdManager-Async/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] Updated ID file on multiplayer menu open: 124 mods, 6 packs
+[28Nov2025 21:11:41.801] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[28Nov2025 21:11:41.804] [Thread-37/INFO] [EMI/]: [EMI] Clearing data
+[28Nov2025 21:11:41.835] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to pi.local, 25565
+[28Nov2025 21:11:42.316] [Netty Client IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [prma:network,prma:handshake,trading_floor:main] rejected their server side version number during listping
+[28Nov2025 21:11:42.322] [Netty Client IO #1/INFO] [net.minecraftforge.client.ForgeHooksClient/CLIENTHOOKS]: Server has additional mods that may be needed on the client: wrbdrones@0.1, warbornrenewed@0.1
+[28Nov2025 21:11:42.322] [Netty Client IO #1/INFO] [net.minecraftforge.client.ForgeHooksClient/CLIENTHOOKS]: Client has mods that are missing on server: [enhancedvisuals, prma, emitrades, fzzy_config, trading_floor, jei, emi, taczleaning, continuity]
+[28Nov2025 21:11:42.657] [Netty Client IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [prma:network,prma:handshake,trading_floor:main] rejected their server side version number during listping
+[28Nov2025 21:11:42.657] [Netty Client IO #2/INFO] [net.minecraftforge.client.ForgeHooksClient/CLIENTHOOKS]: Server has additional mods that may be needed on the client: wrbdrones@0.1, warbornrenewed@0.1
+[28Nov2025 21:11:42.658] [Netty Client IO #2/INFO] [net.minecraftforge.client.ForgeHooksClient/CLIENTHOOKS]: Client has mods that are missing on server: [enhancedvisuals, prma, emitrades, fzzy_config, trading_floor, jei, emi, taczleaning, continuity]
+[28Nov2025 21:11:44.602] [Netty Client IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [prma:handshake,prma:network,trading_floor:main] rejected their server side version number
+[28Nov2025 21:11:44.602] [Netty Client IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with server, mismatched mod list
+[28Nov2025 21:14:49.630] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Sinytra/Fabric mods saved in ID list: []
+[28Nov2025 21:14:49.630] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 123 mods for ID list.
+[28Nov2025 21:14:49.630] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Added ADM Anticheat entry to ID list: 1.9.2
+[28Nov2025 21:14:49.639] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Client resource packs detected: [(SBW) FPV drone.2.0.zip, Aimz - Better Crosshair.zip, Apocalypse gui 1.20.1 v19.zip, fog.zip, Tactical_PDA_Ftbquests_v1.3.zip, TACZ TAC SPRINT v1.3.zip]
+[28Nov2025 21:14:49.639] [ADM-Client-ID-Update/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] Found 6 user resource packs for ID list.
+[28Nov2025 21:14:49.661] [ADM-IdManager-Async/INFO] [org.admany.anticheat.anticheatmod/]: [Anticheat] [Client] Updated ID file on multiplayer menu open: 124 mods, 6 packs

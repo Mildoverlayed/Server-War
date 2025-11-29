@@ -1,0 +1,34 @@
+
+[tow_missile]
+	#The damage of TOW missile
+	#Range: > 1
+	tow_missile_damage = 325
+	#The explosion damage of TOW missile
+	#Range: > 1
+	tow_missile_explosion_damage = 30
+	#The explosion radius of TOW missile
+	#Range: > 1
+	tow_missile_explosion_radius = 4
+
+[btr_4_missile]
+	#The damage of BTR-4 missile
+	#Range: > 1
+	btr_4_missile_damage = 235
+	#The explosion damage of BTR-4 missile
+	#Range: > 1
+	btr_4_missile_explosion_damage = 17
+	#The explosion radius of BTR-4 missile
+	#Range: > 1
+	btr_4_missile_explosion_radius = 3
+
+[terminator_missile]
+	#The damage of BMPT Terminator missile
+	#Range: > 1
+	terminatir_missile_damage = 160
+	#The explosion damage of BMPT Terminator missile
+	#Range: > 1
+	terminatir_missile_explosion_damage = 19
+	#The explosion radius of BMPT Terminator missile
+	#Range: > 1
+	terminatir_missile_explosion_radius = 3
+

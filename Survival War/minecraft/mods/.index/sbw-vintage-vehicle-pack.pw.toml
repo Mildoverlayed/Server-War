@@ -1,0 +1,16 @@
+filename = 'vvp-0.1.7.jar'
+name = '[SBW] Vintage Vehicle Pack'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8d72a3c572cb18d4f6aa92a7fd05f55d442764c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6924963
+project-id = 1280871

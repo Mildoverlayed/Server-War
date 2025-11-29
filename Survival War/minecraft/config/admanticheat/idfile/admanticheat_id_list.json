@@ -1,0 +1,149 @@
+============================================================
+= ADM Anticheat ID file
+= Any changes detected while game is on will result in a crash.
+============================================================
+
+[System Info]
+  OS:   Windows 11                              
+  CPU:  AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+  RAM:  Max: 20.97 GB, Total: 4.61 GB, Free: 2.71 GB
+  GPU:  AMD Radeon(TM) Graphics                 
+  Last Updated:   1764382489371
+  Integrity Hash: f552f1b8fb05f421fd89840a3f23516600eac8d6d6c583709b05b267adca73ed
+
+------------------------------------------------------------
+[Mod IDs]
+  - architectury                   @ 9.2.14          [218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af] {file}
+  - berezka_api                    @ 1.2.2           [19a6eee9607dc8c6159e8e44f909116e5b5794f6874e0532d4f38ec3fb3bff16] {file}
+  - berezka_plugins_for_radio_towers_and_airdrops @ 1.0.2           [6d692ca1cfb61c6f51a2557fd4349ff3dc478847cb58fc6bb2785fc9c3f932bc] {file}
+  - brewinandchewin                @ 1.20.1-3.2.1    [d06edc7a145e8808903b7bd06e0639458a817fbc4ee589be239c0af77a6367db] {file}
+  - chamber_clarity                @ 3.0.0-1.20.1    [f68e78488f3731d27451ecd23d9d756d1777607b2f29dd835932f5842ce042c6] {file}
+  - cloth_config                   @ 11.1.136        [1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2] {file}
+  - configured                     @ 2.2.3           [05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f] {file}
+  - connectormod                   @ 1.0.0-beta.46+1.20.1 [] {nofile}
+  - continuity                     @ 3.0.01.20.1.forge [c1d03c5cbf58f39cc26cee1161f91ca910561f6517f6a59dd641760d62319b65] {file}
+  - controlling                    @ 12.0.2          [516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944] {file}
+  - cosmeticarmorreworked          @ 1.20.1-v1a      [c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804] {file}
+  - create                         @ 6.0.8           [6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0] {file}
+  - create_renewability            @ 1.3.7           [594f40798af96c7a85ef6762dcc9a4d447a2351ba9a7701ad7ac60f0753f08c7] {file}
+  - createtaczauto                 @ 1.5.1           [1a98e0b864f472c96be21bce8fb4129d5acd7915cf2830c0525336c5f518ca29] {file}
+  - creativecore                   @ 2.12.32         [3d2271f7d9d2e32fca46d19f3b6ab4372d30e0ea3eb26c809c23366e8d503e16] {file}
+  - curios                         @ 5.14.1+1.20.1   [1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f] {file}
+  - curiosable_ammo_box            @ 0.3.0           [24b24dccc52ed2751b69be222d976e09a7a0717eb90912bfa80bc8f17b3b26f0] {file}
+  - curiosbackslot                 @ 4.0.6-nc        [1d32e0727fe8b70493093d8e025c1e279474cb9dadd6e3b5cb4006269683614f] {file}
+  - death_sticks                   @ 1.0.2           [c0c476b8d8aaa2e50c2deec91c185d67a8abe169c17d7bacec71de7f2958e86c] {file}
+  - drone_detector                 @ 0.0NONE         [8e94c7b354529ea6d37a512c8bb6a0087b2fd1bae6d590e5433aef2a533adbbd] {file}
+  - embeddium                      @ 0.3.31+mc1.20.1 [eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb] {file}
+  - emi                            @ 1.1.22+1.20.1+forge [877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a] {file}
+  - emitrades                      @ 1.2.1+mc1.20.1  [166874f0f4c9e269cab646ac03a2dec93a261b544670afa98e2eb06275d52a86] {file}
+  - enchanted_arsenal              @ 1.0.1           [961eb2909276ae4a653734db1afb5dc6ae32e75b1ac1a82bb38c02ffd2b1a61c] {file}
+  - enhancedvisuals                @ 1.8.2           [2590c1a56b1a6c8236d460d637da5fdddf4e2c6a0bc70b9a78c762f3e75e428b] {file}
+  - fabric_api                     @ 0.92.6+1.11.14+1.20.1 [9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03] {file}
+  - fabric_api_base                @ 0.4.32+ef105b4977 [] {nofile}
+  - fabric_api_lookup_api_v1       @ 1.6.37+67f9824077 [] {nofile}
+  - fabric_biome_api_v1            @ 13.0.14+dc36698e77 [] {nofile}
+  - fabric_block_api_v1            @ 1.0.12+0e6cb7f777 [] {nofile}
+  - fabric_block_view_api_v2       @ 1.0.3+53347ba977 [] {nofile}
+  - fabric_blockrenderlayer_v1     @ 1.1.42+1d0da21e77 [] {nofile}
+  - fabric_client_tags_api_v1      @ 1.1.3+5d6761b877 [] {nofile}
+  - fabric_command_api_v1          @ 1.2.35+f71b366f77 [] {nofile}
+  - fabric_command_api_v2          @ 2.2.14+561530ec77 [] {nofile}
+  - fabric_content_registries_v0   @ 4.0.13+a670df1e77 [] {nofile}
+  - fabric_convention_tags_v1      @ 1.5.6+fa3d1c0177 [] {nofile}
+  - fabric_data_attachment_api_v1  @ 1.0.2+30ef839e77 [] {nofile}
+  - fabric_data_generation_api_v1  @ 12.3.7+369cb3a477 [] {nofile}
+  - fabric_dimensions_v1           @ 2.1.55+8005d10d77 [] {nofile}
+  - fabric_entity_events_v1        @ 1.6.1+4ca7515277 [] {nofile}
+  - fabric_events_interaction_v0   @ 0.6.5+0f26153f77 [] {nofile}
+  - fabric_game_rule_api_v1        @ 1.0.41+683d4da877 [] {nofile}
+  - fabric_item_api_v1             @ 2.1.29+4d0bbcfa77 [] {nofile}
+  - fabric_item_group_api_v1       @ 4.0.14+c9161c2d77 [] {nofile}
+  - fabric_key_binding_api_v1      @ 1.0.38+561530ec77 [] {nofile}
+  - fabric_lifecycle_events_v1     @ 2.2.23+afab492177 [] {nofile}
+  - fabric_loot_api_v2             @ 1.2.3+eb28f93e77 [] {nofile}
+  - fabric_message_api_v1          @ 5.1.10+52cc178c77 [] {nofile}
+  - fabric_mining_level_api_v1     @ 2.1.52+561530ec77 [] {nofile}
+  - fabric_model_loading_api_v1    @ 1.0.4+6274ab9d77 [] {nofile}
+  - fabric_models_v0               @ 0.4.3+7c3892a477 [] {nofile}
+  - fabric_networking_api_v1       @ 1.3.14+fb7c822677 [] {nofile}
+  - fabric_object_builder_api_v1   @ 11.1.5+f8c414ce77 [] {nofile}
+  - fabric_particles_v1            @ 1.1.3+78e1ecb877 [] {nofile}
+  - fabric_recipe_api_v1           @ 1.0.24+514a076577 [] {nofile}
+  - fabric_registry_sync_v0        @ 2.3.6+1c0ea72177 [] {nofile}
+  - fabric_renderer_api_v1         @ 3.2.2+cf68abbe77 [] {nofile}
+  - fabric_renderer_indigo         @ 1.5.3+b5b2da4177 [] {nofile}
+  - fabric_rendering_data_attachment_v1 @ 0.3.39+a6081afc77 [] {nofile}
+  - fabric_rendering_fluids_v1     @ 3.0.29+4ac5e37a77 [] {nofile}
+  - fabric_rendering_v1            @ 3.0.9+66e9a48f77 [] {nofile}
+  - fabric_resource_conditions_api_v1 @ 2.3.9+996d00b277 [] {nofile}
+  - fabric_resource_loader_v0      @ 0.11.12+4b4151c077 [] {nofile}
+  - fabric_screen_api_v1           @ 2.0.9+45a670a577 [] {nofile}
+  - fabric_screen_handler_api_v1   @ 1.3.33+561530ec77 [] {nofile}
+  - fabric_sound_api_v1            @ 1.0.14+4f23bd8477 [] {nofile}
+  - fabric_transfer_api_v1         @ 3.3.6+631c9cd677 [] {nofile}
+  - fabric_transitive_access_wideners_v1 @ 4.3.2+1880499877 [] {nofile}
+  - farmersdelight                 @ 1.20.1-1.2.9    [45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082] {file}
+  - flywheel                       @ 1.0.5           [] {nofile}
+  - ftbchunks                      @ 2001.3.6        [caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9] {file}
+  - ftblibrary                     @ 2001.2.10       [c721880edd4f3a78965a350b2f12c6fe05f74dba4037a2a08fd792f9cbb1db97] {file}
+  - ftbquests                      @ 2001.4.14       [0986ef763a3255f01d34c0b863e7323420744e9c7186677e61782b9ad91f2743] {file}
+  - ftbteams                       @ 2001.3.1        [d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863] {file}
+  - ftbxaerocompat                 @ 1.0.1           [c65083a75436e74fec64e1e13ae66483bc551331268215b7ca560f1985129627] {file}
+  - ftbxmodcompat                  @ 2.1.3           [16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72] {file}
+  - fzzy_config                    @ 0.7.3+1.20.1+forge [cc0db1514435953677dea20c246b2f86a61b5ff4348143aa8e1154a2808c6191] {file}
+  - geckolib                       @ 4.8.2           [a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc] {file}
+  - guccivuitton                   @ 0.2.2           [9247e55f20acf8ec89af56d4ad45fcc8fe08bee9f7189421ef31835f3516bd57] {file}
+  - injuries_and_treatments        @ 1.0.0           [7a1026abb484fad04b16ef27db2d33eeba06e911387dac7e26668cfcbcc002f7] {file}
+  - item_scrapper                  @ 1.2.8           [da7ba957dbe8ba30f5876ddbf35401ba0cddd49c9e930d5644032b3b377a0106] {file}
+  - item_scrapper_taczpack         @ 1.0.0           [abcdc3143deb4b486b5a2a213f48b84ecd536bfdcf8d41ac4a5b2ab34e23259c] {file}
+  - jei                            @ 15.20.0.127     [86f42646317ec85c2e70a96d9b980dc2072c709b5e52fb97a7fe53879116fab8] {file}
+  - kotlinforforge                 @ 4.11.0          [] {nofile}
+  - lexiconfig                     @ 1.4.18-1        [58362ec29cd96508a716bdc43c4e31be6413dea6b6c6c165b9950b51f02e9b27] {file}
+  - lrarmor                        @ 0.1.4.3         [e4c1b41b4ac3e25da98ec9edd6d31e3953cba24f9872e51df2f46da114935898] {file}
+  - lrtactical                     @ 0.3.0           [98c86c584d56adba158343edf9090d18bf86bb6a06dc54488bbfdd183d0a2556] {file}
+  - marbledsarsenal                @ 2.3.0.3         [b84adbf47b482e48887001c4bae4870cf9f41833cf68bed87928f6474119346c] {file}
+  - mcore                          @ 1.0.3.0         [b9a5e6fa48b9d02806f6ee34899d84d27e09c7cded035f2834de2bed83fc4267] {file}
+  - mcsp                           @ 1.0.5           [94242f0fbd5f7fe62293d4e5d91148aaf5ec0d34656fe5c91b5b2a3baea06ce9] {file}
+  - mekanism                       @ 10.4.16         [3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2] {file}
+  - mffs                           @ 5.1.19          [667068510e040276a408efee292a48a76d0aaa8acf87382032b35cd3bb7ec50f] {file}
+  - mixinsquared                   @ 0.3.3           [] {nofile}
+  - oculus                         @ 1.8.0           [0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef] {file}
+  - ponder                         @ 1.0.91          [] {nofile}
+  - prma                           @ 0.4.4-cr6.0-SIMPLE-beta [22e46506b064336fef2fdd08850b9037dc0a758682107ab74fa138238344b469] {file}
+  - proximitychat                  @ 1.0             [42b5b6d9e385313a49eace7af774a41602df9e53e0518dbad2fb98a994f8025f] {file}
+  - radio_towers_and_tacz          @ 1.0.0           [c69b44f73be2e733e293ea1ef35a7bfba8ec5d6f38237683a5a33bcff984cc7c] {file}
+  - radiotowers                    @ 1.0.0           [001ed03e006b96804bbd35e9a5cec9b86f3edd2cd18bd3015b60faae12b01c2d] {file}
+  - rubidium                       @ 0.7.1           [eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb] {file}
+  - searchables                    @ 1.0.3           [c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576] {file}
+  - skinlayers3d                   @ 1.9.2           [7bd16cc4abaadd8936862fd56dd1dd2a6bd3fe7838959cca9578eedf4ae0efe3] {file}
+  - sophisticatedbackpacks         @ 3.24.12.1411    [4f5f2d153936e94ee490b96f2f8e4b59cb32a19cddc75e290970c4b9dd8493a9] {file}
+  - sophisticatedcore              @ 1.2.107.1240    [873b1f6b6f174872810caf8921c7858d8f59383be53dadee9a7b6ae3e0a80515] {file}
+  - superbwarfare                  @ 0.8.7           [d2ace9eaf40d0424dc8909bfd327bbec97a9a1329e0eeb2fb8aa4090094298c8] {file}
+  - tacz                           @ 1.1.6-hotfix    [f9b4bb27cecff72750e6ef6e72a1ae579006f7dd1d5ac213c9b228fb4c8747fb] {file}
+  - taczaddon                      @ 1.1.6           [0a797a3b91f8ccd5c784c2abee575eb39c8bc7906677a53bc384d27efc13459b] {file}
+  - taczammoquery                  @ 1.20.1-1.0.0    [4fbc312eeaa6cd4d5dc38628f1fe9e0548308cc1795370639dba43351f5c5e09] {file}
+  - taczleaning                    @ 0.01            [0001ee11f0cd6fa123f46eba6726d7a4df74dca720c78c9cc36e0a028a879bdd] {file}
+  - tacztweaks                     @ 2.9.0           [fcf0328947e8bc16f73b965d4cf09d351220b6221cfdad3fc2afe7032e3c7339] {file}
+  - taczxgunlightsaddon            @ 1.0.7           [f324356072fadf46f26f1cc5a29006d420cccff9baabcb48819cfdb0da5a39ee] {file}
+  - takkit                         @ 1.3.1           [21851436d2738039c958a28d815cef92a482975d0e8c62e3a181cda2babb5dab] {file}
+  - trading_floor                  @ 2.0.5           [60cc683061c80d532f7c63ca71fc9cb36f483479c565cdc669c9599ccb1f4a7b] {file}
+  - transition                     @ 1.0.6           [] {nofile}
+  - trender                        @ 1.0.7           [] {nofile}
+  - voicechat                      @ 1.20.1-2.6.6    [8b4d9af0836842f18b6643d7cd13a225f498bf504b91b10fbcefd1d62f2cc845] {file}
+  - voicechat_api                  @ 2.6.0           [8b4d9af0836842f18b6643d7cd13a225f498bf504b91b10fbcefd1d62f2cc845] {file}
+  - vvp                            @ 0.1.7           [c4e72da9bebef89ec6b76bebea3886fe4cf12d7eed665c0de7a18e53cbf8ea27] {file}
+  - walkietalkie                   @ 1.3.0           [4fdba55afc3b06eb7f646527437d1233a8f556ce3ad5712d8781f37525c7189b] {file}
+  - xaerominimap                   @ 25.2.10         [2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a] {file}
+  - xaeroworldmap                  @ 1.39.12         [c312ae6078bca65c179c74d3916fd22bff5dae70eef3c976b0ea7f3326d1917b] {file}
+  - yet_another_config_lib_v3      @ 3.6.6+1.20.1-forge [bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f] {file}
+  - admanticheat                   @ 1.9.2           [b19c8f68c8ed7890bb850c9f10918c0ed86d59dbcb6d73427e58f71ff21cb474] {file}
+
+------------------------------------------------------------
+[Resource Pack IDs]
+  - (SBW) FPV drone.2.0.zip                  [8d2a7e552257faf045dd5dc7980d18b7942c6ed6318356fc1082d48235ac3c8d]
+  - Aimz - Better Crosshair.zip              [cf3a27b3bb0939f5cc426002a000073649aa60447704bc889c639692d4f7b05a]
+  - Apocalypse gui 1.20.1 v19.zip            [f55a587e34a08c981ae4b1d95e6813c93001ac7ffb0e42e8a138d65637aaead0]
+  - fog.zip                                  [853ca8b6fb40fa4456c595299427cea27000ce82a2e50555ce64fba37adea8e9]
+  - Tactical_PDA_Ftbquests_v1.3.zip          [b3b4904ea1982a9e42036eeb3340af6b38428fbcfc6c00008314ee33b250f131]
+  - TACZ TAC SPRINT v1.3.zip                 [8a82b089754937d059626e2df2c30e6f3c12fa2ac3f7ec0658b8966b54253c71]
+============================================================

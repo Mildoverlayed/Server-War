@@ -1,0 +1,180 @@
+
+[mi_24]
+	#The max energy cost of MI-24 per tick
+	#Range: > 0
+	mi_24_max_energy_cost = 128
+	#The min energy cost of MI-24 per tick
+	#Range: > 0
+	mi_24_min_energy_cost = 64
+	#The cannon damage of MI-24
+	#Range: 1 ~ 10000000
+	mi_24_cannon_damage = 15
+	#The cannon explosion damage of MI-24
+	#Range: 1.0 ~ 1.0E7
+	mi_24_cannon_explosion_damage = 4.0
+	#The rocket damage of MI-24
+	#Range: 1 ~ 10000000
+	mi_24_rocket_damage = 40
+	#The rocket explosion damage of MI-24
+	#Range: 1 ~ 10000000
+	mi_24_rocket_explosion_damage = 25
+	#The rocket explosion radius of MI-24
+	#Range: 1 ~ 10000000
+	mi_24_rocket_explosion_radius = 3
+	#Whether to destroy the block when cannon of MI-24 hits a block
+	mi_24_cannon_destroy = true
+
+[stryker_m1128]
+	#The cannon damage of Stryker M1128
+	#Range: 1 ~ 10000000
+	stryker_m1128_cannon_damage = 300
+	#The cannon explosion damage of Stryker M1128
+	#Range: 1 ~ 10000000
+	stryker_m1128_cannon_explosion_damage = 32
+	#The cannon explosion radius of Stryker M1128
+	#Range: 1.0 ~ 1.0E7
+	stryker_m1128_cannon_explosion_radius = 4.0
+
+[bradley]
+	#The energy cost of Bradley per tick
+	#Range: > 0
+	bradley_energy_cost = 75
+	#The cannon damage of Bradley
+	#Range: 1 ~ 10000000
+	bradley_cannon_damage = 47
+	#The cannon explosion damage of Bradley
+	#Range: 1 ~ 10000000
+	bradley_cannon_explosion_damage = 8
+	#The cannon explosion radius of Bradley
+	#Range: 1.0 ~ 1.0E7
+	bradley_cannon_explosion_radius = 2.0
+
+[a72]
+	#The energy cost of BTR-4 and BTR-80A per tick
+	#Range: > 0
+	wheel_energy_cost = 72
+	#The cannon damage of 2A72 weapon (BTR-4, BTR-80A)
+	#Range: 1 ~ 10000000
+	a47_cannon_damage = 45
+	#The cannon explosion damage of 2A72 weapon (BTR-4, BTR-80A)
+	#Range: 1 ~ 10000000
+	a47_cannon_explosion_damage = 6
+	#The cannon explosion radius of 2A72 weapon (BTR-4, BTR-80A)
+	#Range: 1.0 ~ 1.0E7
+	a47_cannon_explosion_radius = 2.0
+
+[cobra]
+	#The cannon damage of Cobra
+	#Range: 1 ~ 10000000
+	cobra_cannon_damage = 22
+	#The cannon explosion damage of Cobra
+	#Range: 1.0 ~ 1.0E7
+	cobra_cannon_explosion_damage = 6.0
+	#The rocket damage of Cobra
+	#Range: 1 ~ 10000000
+	cobra_rocket_damage = 35
+	#The rocket explosion damage of Cobra
+	#Range: 1 ~ 10000000
+	cobra_rocket_explosion_damage = 22
+	#The rocket explosion radius of Cobra
+	#Range: 1 ~ 10000000
+	cobra_rocket_explosion_radius = 3
+	#Whether to destroy the block when cannon of Cobra hits a block
+	cobra_cannon_destroy = true
+
+[m1a2]
+	#The energy cost of M1A2 per tick
+	#Range: > 0
+	m1a2_energy_cost = 96
+	#The cannon damage of M1A2
+	#Range: 1 ~ 10000000
+	m1a2_cannon_damage = 415
+	#The cannon explosion damage of M1A2
+	#Range: 1 ~ 10000000
+	m1a2_cannon_explosion_damage = 70
+	#The cannon explosion radius of M1A2
+	#Range: 1.0 ~ 1.0E7
+	m1a2_cannon_explosion_radius = 5.0
+	#Whether to destroy the block when cannon of M1A2 hits a block
+	m1a2_cannon_destroy = true
+
+[terminator]
+	#The energy cost of Terminator per tick
+	#Range: > 0
+	terminator_energy_cost = 80
+	#The cannon damage of Terminator
+	#Range: 1 ~ 10000000
+	terminator_cannon_damage = 38
+	#The cannon explosion damage of Terminator
+	#Range: 1 ~ 10000000
+	terminator_cannon_explosion_damage = 8
+	#The cannon explosion radius of Terminator
+	#Range: 1.0 ~ 1.0E7
+	terminator_cannon_explosion_radius = 2.5
+	#Whether to destroy the block when Terminator's cannon hits a block
+	terminator_cannon_destroy = true
+
+[stryker_m1296]
+	#The energy cost of Stryler M1296 per tick
+	#Range: > 0
+	stryker_m1296_energy_cost = 66
+	#The cannon damage of Stryker M1296
+	#Range: 1 ~ 10000000
+	stryker_m1296_cannon_damage = 39
+	#The cannon explosion damage of Stryker M1296
+	#Range: 1 ~ 10000000
+	stryker_m1296_cannon_explosion_damage = 8
+	#The cannon explosion radius of Stryker M1296
+	#Range: 1.0 ~ 1.0E7
+	stryker_m1296_cannon_explosion_radius = 2.5
+
+[m60]
+	#The energy cost of M60 per tick
+	#Range: > 0
+	m60_energy_cost = 88
+	#The cannon damage of M60
+	#Range: 1 ~ 10000000
+	m60_cannon_damage = 325
+	#The cannon explosion damage of M60
+	#Range: 1 ~ 10000000
+	m60_cannon_explosion_damage = 42
+	#The cannon explosion radius of M60
+	#Range: 1.0 ~ 1.0E7
+	m60_cannon_explosion_radius = 5.0
+	#Whether to destroy the block when M60's cannon hits a block
+	m60_cannon_destroy = true
+
+[blackhawk]
+	#The max energy cost of Blackhawk per tick
+	#Range: > 0
+	blackhawk_max_energy_cost = 128
+	#The min energy cost of Blackhawk per tick
+	#Range: > 0
+	blackhawk_min_energy_cost = 64
+	#The rocket damage of Blackhawk
+	#Range: 1 ~ 10000000
+	blackhawk_rocket_damage = 40
+	#The rocket explosion damage of Blackhawk
+	#Range: 1 ~ 10000000
+	blackhawk_rocket_explosion_damage = 25
+	#The rocket explosion radius of Blackhawk
+	#Range: 1 ~ 10000000
+	blackhawk_rocket_explosion_radius = 3
+	#Whether to destroy the block when cannon of Blackhawk hits a block
+	blackhawk_cannon_destroy = true
+
+[humvee]
+	#The energy cost of Humvee M997 and Humvee MK19 per tick
+	#Range: > 0
+	humvee_energy_cost = 68
+
+[fmtv]
+	#The energy cost of FMTV per tick
+	#Range: > 0
+	fmtv_energy_cost = 70
+
+["M2 Gun"]
+	#The gun damage of M2 for Humvee
+	#Range: 1 ~ 10000000
+	m2_gun_damage = 33
+

@@ -1,0 +1,16 @@
+filename = 'berezka_plugins_for_radio_towers_and_airdrops-1.0.2.jar'
+name = 'Berezka API for Radio Towers and Airdrops'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15998334bf0aa59a3d39aee18ee8383bdca41322'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7009597
+project-id = 1316100

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1763f86191654ece8187098955f71753"
+	name: "LGM30G#1763f861"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

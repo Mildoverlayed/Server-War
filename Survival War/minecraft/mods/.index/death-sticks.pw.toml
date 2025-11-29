@@ -1,0 +1,16 @@
+filename = 'death_sticks-1.0.2-forge-1.20.1.jar'
+name = 'Death Sticks!'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77d1a73252b15b2a86e964d9e41ba8c156c780fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6237733
+project-id = 1148019

@@ -1,0 +1,16 @@
+filename = 'radio_towers_and_tacz-1.0.0.jar'
+name = 'Radio Towers and Guns [TaCZ]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9ea604cbd0803fd7d7aed096b14c079bac3d1389'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7109302
+project-id = 1365648
